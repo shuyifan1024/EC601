@@ -1,0 +1,15 @@
+there are test issues of: 
+Github name: Kercho0 
+Github Link: https://github.com/Kercho0/601-P2
+
+In general, the Twitter API is complete. Contain calls to the Twitter API.
+
+There are some minor problems or suggestion:
+1:There is no problem with code calling the Twitter API directly.
+  However, from a testing point of view, whether we need to do a filter or statistics on the output content.  
+  For example, the content we call will appear in Japanese or non-English words.  Or the content of the output is repeated.
+2:The code does not contain some annotations. So it is not unfriendly to read.
+3:The GitHub file is a little mess. It is a recommendation that placeing each assignment clearly in a folder. This will make it easier to find later.
+
+The author's overall code is correct and good.The above small questions are only suggestions from the perspective of product testing.
+Thank you very much ！
